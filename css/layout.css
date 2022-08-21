@@ -1,0 +1,18 @@
+.layout-cabecalho {
+	border-bottom: 1px solid #ccc;
+	height: 60px; /* tamanho do header */
+}
+
+.layout-cabecalho img {
+	margin-top: 12px;
+}
+
+.layout-planos {
+	padding: 80px 0;
+}
+
+.layout-chamada {
+	padding: 80px 0;
+
+	background-color: #7ab55c;
+}
